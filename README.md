@@ -2,6 +2,7 @@
 
 📦 Sistemas Empresariales aplicando Principios SOLID
 
+
 📚 Ejercicios Incluidos
 1️⃣ Plataforma de Pagos con Múltiples Pasarelas
 
@@ -22,6 +23,8 @@ Open/Closed
 Liskov Substitution
 
 Dependency Inversion
+
+
 
 2️⃣ Sistema de Notificaciones Multicanal
 
@@ -45,6 +48,8 @@ Interface Segregation
 
 Dependency Inversion
 
+
+
 3️⃣ Sistema de Reportes Empresariales
 
 Generación de reportes en:
@@ -64,6 +69,8 @@ Single Responsibility
 Open/Closed
 
 Liskov Substitution
+
+
 
 4️⃣ Sistema de Gestión de Usuarios y Roles
 
@@ -87,6 +94,8 @@ Liskov Substitution
 
 Open/Closed
 
+
+
 5️⃣ Sistema de Facturación Electrónica
 
 Sistema que:
@@ -107,15 +116,6 @@ Open/Closed
 
 Dependency Inversion
 
-🧠 Objetivo del Proyecto
-
-Practicar diseño orientado a objetos.
-
-Aplicar correctamente los principios SOLID.
-
-Evitar código rígido, acoplado y difícil de mantener.
-
-Comprender cómo se estructuran sistemas empresariales reales.
 
 🛠 Tecnologías
 
@@ -124,6 +124,7 @@ Python 3
 abc (Abstract Base Classes)
 
 Programación Orientada a Objetos
+
 
 🚀 Cómo ejecutar
 
